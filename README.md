@@ -1,7 +1,7 @@
 # Hello, I'm Nicholas
 <a href="https://linkedin.com/nickpiersimoni"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a technology enthusiast who loves to learn and protect networks and data from bad actors
+I am a technology enthusiast who loves to learn, as well as protect networks and data from bad actors
 
 ## Objective
 
