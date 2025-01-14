@@ -14,7 +14,7 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Project With Packet Tracer          | <a href="https://google.com">Detection Lab</a>|
+| Network Project With Cisco Packet Tracer          | <a href="https://google.com">Detection Lab</a>|
 
 
 ## Tools
