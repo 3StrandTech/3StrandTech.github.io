@@ -10,15 +10,15 @@ I am a technology enthusiast who loves to learn, as well as protect networks and
 Working in the wireless industry for over a decade inspired me to obtain multiple cybersecurity skills. I am excited to join the cybersecurity industry as a Tier 1 Security Operations Center (SOC) Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Project With Cisco Packet Tracer          | <a href="https://google.com">Detection Lab</a>|
 
 
-## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- ## Tools -->## 
+
 
 ### Network
 <div>
@@ -41,7 +41,7 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!-- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]] -->
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
