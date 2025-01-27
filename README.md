@@ -1,7 +1,7 @@
 # Hello, I'm Nicholas
-<a href="https://linkedin.com/nickpiersimoni"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<!-- <a href="https://linkedin.com/nickpiersimoni"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [![YouTube Channel](https://img.shields.io/badge/MyYouTubeChannel-3StrandTech-red)](https://www.youtube.com/@3StrandTech/videos)
-
+-->
 
 I am a technology enthusiast who loves to learn, as well as protect networks and data from bad actors
 
