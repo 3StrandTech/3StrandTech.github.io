@@ -52,6 +52,7 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div>
 -->
-## Projects
+<!-- ## Projects
 - Detection Lab
 - SOC Automation Project
+-->
