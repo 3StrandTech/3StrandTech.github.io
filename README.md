@@ -1,4 +1,4 @@
-# Hello, I'm Nicholas
+# Hello, I'm Nicholas Piersimoni
 <!-- <a href="https://linkedin.com/nickpiersimoni"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 [![YouTube Channel](https://img.shields.io/badge/MyYouTubeChannel-3StrandTech-red)](https://www.youtube.com/@3StrandTech/videos)
 -->
