@@ -15,7 +15,7 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Network Project With Cisco Packet Tracer          | <a href="https://github.com/3StrandTech/Packet-Tracer-Networking">Network Project</a>|
-
+| Firewall Project with Python                      | <a href="https://github.com/3StrandTech/Python-Firewall-Project">Network Project</a>|
 
 <!-- ## Tools --> 
 
