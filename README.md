@@ -14,7 +14,7 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Project                                      | <a href="https://github.com/3StrandTech/SIEM-Log-Analysis-Project/tree/main">SIEM Project</a>|
+| SIEM Log Analysis Project                         | <a href="https://github.com/3StrandTech/SIEM-Log-Analysis-Project/tree/main">SIEM Log Analysis Project</a>|
 | Network Project With Cisco Packet Tracer          | <a href="https://github.com/3StrandTech/Packet-Tracer-Networking">Network Project</a>|
 | Firewall Project with Python                      | <a href="https://github.com/3StrandTech/Python-Firewall-Project">Python Firewall Project</a>|
 
