@@ -43,8 +43,11 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 -->
-<!-- ## Certifications
- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<h2> Certifications </h2> 
+
+[![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/3c20037d-a295-4df1-8746-6bdb2553eafb/public_url) 
+ 
+ <!-- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
