@@ -48,7 +48,7 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
 Click on a certification button to see my official Credly verification for each cert
 
 [![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/3c20037d-a295-4df1-8746-6bdb2553eafb/public_url)
-[![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/2862d904-e824-403c-9978-372772e3c06f/public_url)
+<br> [![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-red?style=for-the-badge&logo=comptia)](https://www.credly.com/badges/2862d904-e824-403c-9978-372772e3c06f/public_url) </br> 
  
  <!-- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
