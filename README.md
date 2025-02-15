@@ -43,7 +43,7 @@ Working in the wireless industry for over a decade inspired me to obtain multipl
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 -->
-<h2> Certifications </h2> 
+<h2> Certifications and Credentials </h2> 
 
 Click on a certification button to see my official Credly verification for each cert
 
