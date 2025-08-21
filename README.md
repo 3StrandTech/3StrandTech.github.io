@@ -9,7 +9,7 @@ I am a technology enthusiast who loves to learn, as well as protect networks and
 
 Working in the wireless industry for over a decade inspired me to obtain multiple cybersecurity skills. I am excited to join the cybersecurity industry as a Tier 1 Security Operations Center (SOC) Analyst.
 
-## Skill
+## Skills
 
 
 | Skill                                         | Associated Project         |
